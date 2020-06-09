@@ -1,0 +1,5 @@
+set_io clk R9
+set_io PWM_OUT A5
+
+set_io increase_duty D6
+set_io decrease_duty C6
